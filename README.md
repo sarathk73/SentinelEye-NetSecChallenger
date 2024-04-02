@@ -23,3 +23,10 @@ After installation, run the tool from the command line:
 
 ```bash
 python main.py
+
+You will be presented with a menu of options:
+Start monitor mode
+Stop monitor mode
+Scan Networks...
+Exit the program
+Choose the desired option by entering the corresponding number and follow the prompts.
