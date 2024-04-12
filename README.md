@@ -46,3 +46,6 @@ You will be greeted by an interface as follows:
 - Execute WPS network attacks
 ...
 Select an action by entering the corresponding number provided by the menu.
+
+## Disclaimer
+"NetSecChallenger" is intended for educational purposes and authorized security audits only. The developers assume no liability and are not responsible for any misuse or damage caused by this program.
