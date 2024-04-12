@@ -17,8 +17,9 @@ Before installing and running NetSecChallenger, ensure you have the necessary pe
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/NetSecChallenger.git
-cd NetSecChallenger
+git clone https://github.com/sarathk73/SentielEye-NetSecChallenger.git
+cd SentinelEye-NetSecChallenger
+```
 
 ## Description
 This tool is designed to streamline and automate various wireless hacking tasks through a clear and user-friendly command-line interface.
@@ -46,9 +47,3 @@ After installation, run the tool from the command line:
 python main.py
 ```
 
-You will be presented with a menu of options:
-Start monitor mode
-Stop monitor mode
-Scan Networks...
-Exit the program
-Choose the desired option by entering the corresponding number and follow the prompts.
