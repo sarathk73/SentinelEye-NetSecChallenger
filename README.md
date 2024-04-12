@@ -31,6 +31,19 @@ Or, for a manual installation of requirements:
 ```bash
 sudo apt-get install aircrack-ng crunch xterm wordlists reaver pixiewps bully wifite bettercap wifipumpkin3
 ```
+## Usage Guide
+
+To launch the toolkit, navigate to the cloned repository and execute:
+
+```bash
+python wifi.py
+```
+You will be greeted by an interface as follows:
+
+- Start/Stop monitor mode
+- Scan networks
+- Capture handshakes
+- Execute WPS network attacks
 
 ## Description
 This tool is designed to streamline and automate various wireless hacking tasks through a clear and user-friendly command-line interface.
