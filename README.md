@@ -49,3 +49,8 @@ Select an action by entering the corresponding number provided by the menu.
 
 ## Disclaimer
 "NetSecChallenger" is intended for educational purposes and authorized security audits only. The developers assume no liability and are not responsible for any misuse or damage caused by this program.
+
+## Authors and Acknowledgments
+
+This toolkit is the product of collaborative efforts by AKASH, ASWIN, SUDEV, and SARATH. Special thanks to the cybersecurity and open-source communities for their wisdom and tools.
+For inquiries or feedback, contact via [Email/Contact Form].
