@@ -1,4 +1,4 @@
-# NetSecChallenger: Automated Wireless Security Toolkit
+# SentinelEye: Automated Wireless Security Toolkit
 
 ## Description
 "NetSecChallenger" provides a suite of automated tools designed for security professionals and network administrators to test and assess the security of wireless networks. With an intuitive command-line interface, users can streamline the process of monitoring, analyzing, and testing network protocols.
