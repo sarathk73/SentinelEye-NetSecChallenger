@@ -1,4 +1,24 @@
-# Wireless Hacking Automation Tool
+# NetSecChallenger: Automated Wireless Security Toolkit
+
+## Description
+"NetSecChallenger" provides a suite of automated tools designed for security professionals and network administrators to test and assess the security of wireless networks. With an intuitive command-line interface, users can streamline the process of monitoring, analyzing, and testing network protocols.
+
+## Key Features
+- Interactive CLI menu for easy navigation.
+- Simplifies complex wireless security testing procedures.
+- Automated monitoring mode, network scanning, handshake sniffing, and more.
+- Integrated support for WPS attack vectors, DOS attacks, and other advanced monitoring tools.
+
+## Prerequisites
+Before installing and running NetSecChallenger, ensure you have the necessary permissions to test the network. Unauthorized access to networks is illegal and unethical.
+
+## Installation Instructions
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/NetSecChallenger.git
+cd NetSecChallenger
 
 ## Description
 This tool is designed to streamline and automate various wireless hacking tasks through a clear and user-friendly command-line interface.
