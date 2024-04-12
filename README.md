@@ -21,6 +21,17 @@ git clone https://github.com/sarathk73/SentielEye-NetSecChallenger.git
 cd SentinelEye-NetSecChallenger
 ```
 
+Install the required tools and dependencies:
+```bash
+chmod +x wifi.py
+./wifi.py
+```
+Or, for a manual installation of requirements:
+
+```bash
+sudo apt-get install aircrack-ng crunch xterm wordlists reaver pixiewps bully wifite bettercap wifipumpkin3
+```
+
 ## Description
 This tool is designed to streamline and automate various wireless hacking tasks through a clear and user-friendly command-line interface.
 
