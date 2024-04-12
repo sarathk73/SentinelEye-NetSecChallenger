@@ -53,4 +53,4 @@ Select an action by entering the corresponding number provided by the menu.
 ## Authors and Acknowledgments
 
 This toolkit is the product of collaborative efforts by AKASH, ASWIN, SUDEV, and SARATH. Special thanks to the cybersecurity and open-source communities for their wisdom and tools.
-For inquiries or feedback, contact via [Email/Contact Form].
+For inquiries or feedback, contact via amssarath@gmail.com.
