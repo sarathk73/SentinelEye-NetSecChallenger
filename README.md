@@ -47,6 +47,18 @@ You will be greeted by an interface as follows:
 ...
 Select an action by entering the corresponding number provided by the menu.
 
+## Contributing
+
+We welcome contributions from the community! If you would like to contribute to SentinelEye, please follow these steps:
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Commit your changes with meaningful commit messages.
+- Push your changes to the branch.
+- Submit a pull request against the `main` branch.
+
+Please ensure your code adheres to the project's coding standards and include any relevant tests.
+
 ## Disclaimer
 "NetSecChallenger" is intended for educational purposes and authorized security audits only. The developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
