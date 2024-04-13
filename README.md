@@ -3,6 +3,19 @@
 ## Description
 "NetSecChallenger" provides a suite of automated tools designed for security professionals and network administrators to test and assess the security of wireless networks. With an intuitive command-line interface, users can streamline the process of monitoring, analyzing, and testing network protocols.
 
+## Table of Contents
+- [Key Features](#key-features)
+- [Prerequisites](#prerequisites)
+- [Installation Instructions](#installation-instructions)
+- [Usage Guide](#usage-guide)
+- [Configuration](#configuration)
+- [Troubleshooting](#troubleshooting)
+- [Contributing](#contributing)
+- [Disclaimer](#disclaimer)
+- [Authors and Acknowledgments](#authors-and-acknowledgments)
+- [License](#license)
+
+
 ## Key Features
 - Interactive CLI menu for easy navigation.
 - Simplifies complex wireless security testing procedures.
