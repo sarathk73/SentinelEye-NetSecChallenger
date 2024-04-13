@@ -60,6 +60,12 @@ You will be greeted by an interface as follows:
 ...
 Select an action by entering the corresponding number provided by the menu.
 
+## Configuration
+
+ - Ensure Python 3 is installed
+ - Update the system paths if necessary in the wifi.py script
+
+
 ## Contributing
 
 We welcome contributions from the community! If you would like to contribute to SentinelEye, please follow these steps:
