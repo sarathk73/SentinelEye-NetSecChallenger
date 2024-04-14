@@ -71,3 +71,7 @@ If after following the above steps you are unable to resolve the issue, please g
  - Any error messages that are displayed.
 
 With this information, reach out to the community support forums or submit an issue on the SentinelEye issues page.
+
+### Contributing to Troubleshooting
+
+If you have encountered a problem and solved it in a way not documented here, please consider contributing your solution to this guide by submitting a pull request to this document, so that future users may benefit from your experiences.
