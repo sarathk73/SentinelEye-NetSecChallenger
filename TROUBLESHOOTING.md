@@ -38,3 +38,12 @@ The interface does not go into monitor mode when using the start option.
 sudo airmon-ng check kill
 ```
 
+### Issue: Unable to Capture Handshakes
+**Symptom:**
+The program isn’t capturing handshakes even when there is network traffic.
+
+**Solution:**
+  - Ensure that you are within range of the wireless access point.
+  - Check to see there is ongoing traffic between the AP and its clients.
+  - Try targeting a network with a stronger signal.
+
