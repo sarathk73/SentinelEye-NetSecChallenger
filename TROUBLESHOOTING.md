@@ -47,3 +47,11 @@ The program isn’t capturing handshakes even when there is network traffic.
   - Check to see there is ongoing traffic between the AP and its clients.
   - Try targeting a network with a stronger signal.
 
+### Issue: WPS Attacks Not Working
+**Symptom:**
+The WPS attack options don’t seem to be having any effect.
+
+**Solution:**
+  - Make sure the network BSSID supports WPS.
+  - Confirm that the WPS pin is correct.
+  - Not all routers are vulnerable to WPS attacks - the inability to perform such attacks may not be an issue with the software.
