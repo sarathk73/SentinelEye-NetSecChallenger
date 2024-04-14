@@ -86,6 +86,12 @@ Please ensure your code adheres to the project's coding standards and include an
 ## Disclaimer
 "NetSecChallenger" is intended for educational purposes and authorized security audits only. The developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 ## Authors and Acknowledgments
 
 This toolkit is the product of collaborative efforts by AKASH, ASWIN, SUDEV, and SARATH. Special thanks to the cybersecurity and open-source communities for their wisdom and tools.
