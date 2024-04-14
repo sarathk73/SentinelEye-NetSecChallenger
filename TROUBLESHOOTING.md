@@ -13,4 +13,5 @@ Ensure that all required dependencies are installed. Refer to the `Installation 
 
 ```bash
 sudo apt-get update
+sudo apt-get install aircrack-ng crunch xterm wordlists reaver pixiewps bully wifite bettercap wifipumpkin3
 ```
