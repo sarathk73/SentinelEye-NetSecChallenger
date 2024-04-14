@@ -65,6 +65,11 @@ Select an action by entering the corresponding number provided by the menu.
  - Ensure Python 3 is installed
  - Update the system paths if necessary in the wifi.py script
 
+## Troubleshooting
+  
+  For common issues and troubleshooting help, see TROUBLESHOOTING.md in this repository.
+  
+
 
 ## Contributing
 
