@@ -15,3 +15,15 @@ Ensure that all required dependencies are installed. Refer to the `Installation 
 sudo apt-get update
 sudo apt-get install aircrack-ng crunch xterm wordlists reaver pixiewps bully wifite bettercap wifipumpkin3
 ```
+## Issue: Permissions Error
+
+**Symptom:**
+Error messages referring to lack of permissions, like 'Permission Denied'.
+
+**Solution:**
+Make sure you’re running SentinelEye with sufficient permissions. This usually requires running the software as the root user.
+
+```bash
+sudo python wifi.py
+```
+
