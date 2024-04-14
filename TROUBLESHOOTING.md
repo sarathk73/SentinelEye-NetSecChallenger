@@ -64,3 +64,10 @@ If the steps above do not solve your problem, more in-depth troubleshooting may 
  - Verifying your network card’s chipset and driver support.
  - Researching your issue in online forums or the tool’s official documentation.
 
+### Still Need Help?
+If after following the above steps you are unable to resolve the issue, please gather the following information:
+ - A clear description of the problem.
+ - Steps to reproduce the issue.
+ - Any error messages that are displayed.
+
+With this information, reach out to the community support forums or submit an issue on the SentinelEye issues page.
