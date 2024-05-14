@@ -89,7 +89,7 @@ Please ensure your code adheres to the project's coding standards and include an
 
 ## Authors and Acknowledgments
 
-This toolkit is the product of collaborative efforts by AKASH, ASWIN, SUDEV, and SARATH. Special thanks to the cybersecurity and open-source communities for their wisdom and tools.
+This toolkit is the product of collaborative efforts by AKASH - [akash-tk](https://github.com/akash-tk), ASWIN - [Aswin10401](https://github.com/Aswin10401), SUDEV - [sudevkallatt](https://github.com/sudevkallatt), and SARATH - [sarathk73](https://github.com/sarathk73). Special thanks to the cybersecurity and open-source communities for their wisdom and tools.
 For inquiries or feedback, contact via amssarath@gmail.com.
 
 ### License
