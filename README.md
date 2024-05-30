@@ -68,8 +68,9 @@ Select an action by entering the corresponding number provided by the menu.
 ## Troubleshooting
   
   For common issues and troubleshooting help, see TROUBLESHOOTING.md in this repository.
-  
 
+## Need Help or Have a Feature Request?
+We're here to help! If you have any support queries or suggestions for new features, please file an issue on our GitHub repository. We'll get back to you as soon as possible.
 
 ## Contributing
 
