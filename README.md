@@ -84,9 +84,8 @@ We welcome contributions from the community! If you would like to contribute to 
 
 Please ensure your code adheres to the project's coding standards and include any relevant tests.
 
-## Disclaimer
-"NetSecChallenger" is intended for educational purposes and authorized security audits only. The developers assume no liability and are not responsible for any misuse or damage caused by this program.
-
+## Legal Notice
+"NetSecChallenger" is designed strictly for educational purposes and authorized security assessments. The creators bear no responsibility for any misuse or damage arising from the use of this program. Use it wisely and within the bounds of the law.
 
 ## Authors and Acknowledgments
 
